@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+psycopg2-binary
+redis
+pyjwt
+apscheduler
+httpx
+datetime
+supabase
+python-dotenv
+apscheduler
