@@ -1,0 +1,3 @@
+[submodule "Engineering/Meta-XR"]
+	path = Engineering/Meta-XR
+	url = https://github.com/BrandonDodge/Meta-XR.git
